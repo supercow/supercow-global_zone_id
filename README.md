@@ -59,4 +59,5 @@ james.sweeny@puppetlabs.com
 Support
 -------
 
-Please log issues at the project site at 
+Please log bug reports and enhancement requests at the project site
+on [GitHub](https://github.com/supercow/supercow-global_zone_id/issues).
